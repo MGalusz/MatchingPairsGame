@@ -1,0 +1,9 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Form1.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Properties.Resources.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.GenerateResource.Cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.pdb
